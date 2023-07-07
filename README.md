@@ -1,4 +1,4 @@
-![](https://komarev.com/ghpvc/?username=Ayaan-Sharif)   <a href="https://www.linkedin.com/in/ayaansharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:ayaansharif42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+![](https://komarev.com/ghpvc/?username=dexjr)   <a href="https://www.linkedin.com/in/ayaansharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:ayaansharif42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 ### Hi there 👋
 
 My name is **Ayaan Sharif** 
