@@ -1,9 +1,16 @@
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>  <a href="https://www.linkedin.com/in/ayaansharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:ayaansharif42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
+<a href="https://www.linkedin.com/in/ayaansharif">
+  <img align="left" alt="Ayaan's LinkedIn" width="40px" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif"/> 
+</a> 
+
+<a href="mailto:ayaansharif42@gmail.com">
+  <img align="left" alt="Ayaan's Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
+</a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexjr&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Sharif&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 -->
+
 
 
 My name is **Ayaan Sharif** 
