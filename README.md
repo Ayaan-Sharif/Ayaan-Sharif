@@ -1,8 +1,10 @@
 <img align="right" alt="Coding" width="400" src="https://miro.medium.com/max/680/0*7Q3yvSIv_t0ioJ-Z.gif"/>  <a href="https://www.linkedin.com/in/ayaansharif/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?logo=linkedin&logoColor=white" alt="Linkedin"></a>   <a href="mailto:ayaansharif42@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white" alt="Email"></a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<!--
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexjr&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Sharif&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+-->
 
-
-### Hi there 👋
 
 My name is **Ayaan Sharif** 
 
@@ -28,7 +30,7 @@ And be enlightened by what I've done,
 Come and checkout my repos with ease,
 And together, let's code with a breeze!
 
-
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayxxn-shxrif&show_icons=true&locale=en&layout=compact" alt="ayxxn-shxrif" /></p>
 
 <!--
 **dexjr/dexjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
