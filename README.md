@@ -2,8 +2,7 @@
   <img align="left" alt="Ayaan's LinkedIn" width="40px" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif"/> 
 </a> 
 
-<a href="mailto:ayaansharif42@gmail.com">
-  <img align="left" alt="Ayaan's Gmail" width="40px" src="https://img.icons8.com/color/2x/gmail--v2.gif"/> 
+
 </a>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 <!--
