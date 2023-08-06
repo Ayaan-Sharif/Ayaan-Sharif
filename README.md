@@ -1,13 +1,10 @@
-<a href="https://www.linkedin.com/in/ayaansharif">
-  <img align="left" alt="Ayaan's LinkedIn" width="40px" src="https://img.icons8.com/color/2x/linkedin-2--v2.gif"/> 
-</a> 
 
 
 
-<!--
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=dexjr&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Sharif&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
--->
+
+
+
+
 
 
 
@@ -35,7 +32,7 @@ And be enlightened by what I've done,
 Come and checkout my repos with ease,
 And together, let's code with a breeze!
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ayxxn-shxrif&show_icons=true&locale=en&layout=compact" alt="ayxxn-shxrif" /></p>
+
 
 <!--
 **dexjr/dexjr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
