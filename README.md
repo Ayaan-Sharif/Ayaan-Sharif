@@ -3,8 +3,7 @@
 </a> 
 
 
-</a>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kimjayden&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
+
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dexjr&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ayaan-Sharif&label=Profile%20views&color=0e75b6&style=flat" alt="kimjayden" /> </p>
