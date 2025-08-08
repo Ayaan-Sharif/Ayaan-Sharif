@@ -1,6 +1,6 @@
 ### Ayaan Sharif
 
-AI Engineer building and deploying large-scale multimodal systems. I specialize in the end-to-end pipeline, from data processing and model deployment on GCP to creating RAG-based agentic workflows.
+Engineer building and deploying large-scale multimodal systems. I specialize in the end-to-end pipeline, from data processing and model deployment on GCP to creating RAG-based agentic workflows.
 
 [Email](mailto:ayaansharif42@gmail.com) | [LinkedIn](https://linkedin.com/in/ayaansharif) | [Hugging Face](https://huggingface.co/Ayaan-Sharif) <!-- 👈 Add your username -->
 
